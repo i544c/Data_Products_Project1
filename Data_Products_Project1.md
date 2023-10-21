@@ -31,3 +31,4 @@ leaflet() %>%
         addTiles() %>%
         addPopups(lng = brasil_long, lat = brasil_lat, popup = "Paraiba, Brasil")
 ```
+![dpp1](https://github.com/i544c/Data_Products_Project1/assets/104391905/79cb7b7a-ef84-41a3-80f9-fa4910e69a19)
